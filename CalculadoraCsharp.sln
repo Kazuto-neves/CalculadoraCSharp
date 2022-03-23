@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraCsharp", "CalculadoraCsharp\CalculadoraCsharp.csproj", "{8B697E90-33B1-43B0-8510-A44EEA4F3EBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcons", "Funcons\Funcons.csproj", "{3A1B876A-7560-4397-9C11-BBDF6F70DBAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B697E90-33B1-43B0-8510-A44EEA4F3EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B697E90-33B1-43B0-8510-A44EEA4F3EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B697E90-33B1-43B0-8510-A44EEA4F3EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B697E90-33B1-43B0-8510-A44EEA4F3EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A1B876A-7560-4397-9C11-BBDF6F70DBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A1B876A-7560-4397-9C11-BBDF6F70DBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A1B876A-7560-4397-9C11-BBDF6F70DBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A1B876A-7560-4397-9C11-BBDF6F70DBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {840AB70F-0FDA-42B9-B250-B46604ACF190}
+	EndGlobalSection
+EndGlobal

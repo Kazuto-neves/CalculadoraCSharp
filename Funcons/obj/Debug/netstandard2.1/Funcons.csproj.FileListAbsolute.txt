@@ -1,0 +1,10 @@
+C:\Users\Kazuto\source\repos\CalculadoraCsharp\Funcons\bin\Debug\netstandard2.1\Funcons.deps.json
+C:\Users\Kazuto\source\repos\CalculadoraCsharp\Funcons\bin\Debug\netstandard2.1\Funcons.dll
+C:\Users\Kazuto\source\repos\CalculadoraCsharp\Funcons\bin\Debug\netstandard2.1\Funcons.pdb
+C:\Users\Kazuto\source\repos\CalculadoraCsharp\Funcons\obj\Debug\netstandard2.1\Funcons.csproj.AssemblyReference.cache
+C:\Users\Kazuto\source\repos\CalculadoraCsharp\Funcons\obj\Debug\netstandard2.1\Funcons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kazuto\source\repos\CalculadoraCsharp\Funcons\obj\Debug\netstandard2.1\Funcons.AssemblyInfoInputs.cache
+C:\Users\Kazuto\source\repos\CalculadoraCsharp\Funcons\obj\Debug\netstandard2.1\Funcons.AssemblyInfo.cs
+C:\Users\Kazuto\source\repos\CalculadoraCsharp\Funcons\obj\Debug\netstandard2.1\Funcons.csproj.CoreCompileInputs.cache
+C:\Users\Kazuto\source\repos\CalculadoraCsharp\Funcons\obj\Debug\netstandard2.1\Funcons.dll
+C:\Users\Kazuto\source\repos\CalculadoraCsharp\Funcons\obj\Debug\netstandard2.1\Funcons.pdb
