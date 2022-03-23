@@ -111,30 +111,30 @@ namespace CalculadoraCsharp
                 valor2 = double.Parse(tBresultado.Text);
                 if (op == "soma")
                 {
-                    tBresultado.Text = Convert.ToString(operacons.Somar(valor1, valor2));
+                    tBresultado.Text = operacons.Somar(valor1, valor2).ToString("F");
                     tBoperacao.Text = "";
                     tBvalor.Text = "";
                 }else if (op == "sub")
                 {
-                    tBresultado.Text = Convert.ToString(operacons.Sub(valor1, valor2));
+                    tBresultado.Text = operacons.Sub(valor1, valor2).ToString("F");
                     tBoperacao.Text = "";
                     tBvalor.Text = "";
                 }
                 else if (op == "div")
                 {
-                    tBresultado.Text = Convert.ToString(operacons.Div(valor1, valor2));
+                    tBresultado.Text = operacons.Div(valor1, valor2).ToString("F");
                     tBoperacao.Text = "";
                     tBvalor.Text = "";
                 }
                 else if (op == "pow")
                 {
-                    tBresultado.Text = Convert.ToString(operacons.PowY(valor1, valor2));
+                    tBresultado.Text = operacons.PowY(valor1, valor2).ToString("F");
                     tBoperacao.Text = "";
                     tBvalor.Text = "";
                 }
                 else if (op == "mult")
                 {
-                    tBresultado.Text = Convert.ToString(operacons.Mult(valor1, valor2));
+                    tBresultado.Text = operacons.Mult(valor1, valor2).ToString("F");
                     tBoperacao.Text = "";
                     tBvalor.Text = "";
                 }
@@ -159,19 +159,19 @@ namespace CalculadoraCsharp
         private void bFatorial_Click(object sender, EventArgs e)
         {
             valor1 = double.Parse(tBresultado.Text);
-            tBresultado.Text = Convert.ToString(operacons.Fator(valor1));
+            tBresultado.Text = operacons.Fator(valor1).ToString("F");
         }
 
         private void bRaiz_Click(object sender, EventArgs e)
         {
             valor1 = double.Parse(tBresultado.Text);
-            tBresultado.Text = Convert.ToString(operacons.Raiz(valor1));
+            tBresultado.Text = operacons.Raiz(valor1).ToString("F");
         }
 
         private void bPow2_Click(object sender, EventArgs e)
         {
             valor1 = double.Parse(tBresultado.Text);
-            tBresultado.Text = Convert.ToString(operacons.Pow2(valor1));
+            tBresultado.Text = operacons.Pow2(valor1).ToString("F");
         }
 
         private void button3_Click(object sender, EventArgs e)

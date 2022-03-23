@@ -17,3 +17,6 @@ C:\Users\Kazuto\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\netco
 C:\Users\Kazuto\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\netcoreapp3.1\CalculadoraCsharp.dll
 C:\Users\Kazuto\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\netcoreapp3.1\CalculadoraCsharp.pdb
 C:\Users\Kazuto\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\netcoreapp3.1\CalculadoraCsharp.genruntimeconfig.cache
+C:\Users\Kazuto\source\repos\CalculadoraCsharp\CalculadoraCsharp\bin\Debug\netcoreapp3.1\pt-BR\CalculadoraCsharp.resources.dll
+C:\Users\Kazuto\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\netcoreapp3.1\CalculadoraCsharp.Form1.pt-BR.resources
+C:\Users\Kazuto\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\netcoreapp3.1\pt-BR\CalculadoraCsharp.resources.dll
